@@ -1,15 +1,19 @@
 # restaurany-API
 restaurany API
 
-題目：Set up REST API Server that can power a Restaurant.
-Create Models and Relationships for the following objects Menu Item
-Order Customer
+題目：Set up REST API Server that can power a Restaurant.  
+Create Models and Relationships for the following objects  
+1.Menu Item  
+2.Order  
+3.Customer  
 
-The REST API should implement the endpoints that allows a Restaurant to：
-1.Get all Menu Items, Customers, and Orders Start a new Order for a Customer
-2.Add a Menu Item to an Order
-3.Remove a Menu Item from an Order
-4.Get all Menu Items on an Order Get all Orders for a Customer
+The REST API should implement the endpoints that allows a Restaurant to：  
+1.Get all Menu Items, Customers, and Orders   
+2.Start a new Order for a Customer  
+3.Add a Menu Item to an Order  
+4.Remove a Menu Item from an Order  
+5.Get all Menu Items on an Order   
+6.Get all Orders for a Customer  
 
 
 *使用springboot+jdk 11.0.11+maven
